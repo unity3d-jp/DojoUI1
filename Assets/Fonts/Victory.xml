@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!--Created using Glyph Designer - http://www.71squared.com/glyphdesigner-->
+<font>
+    <info face="Dimitri Swank" size="180" bold="0" italic="0" chasrset="" unicode="0" stretchH="100" smooth="1" aa="1" padding="0,0,0,0" spacing="4,4"/>
+    <common lineHeight="225" base="152" scaleW="512" scaleH="512" pages="1" packed="0"/>
+    <pages>
+        <page id="0" file="Victory.png"/>
+    </pages>
+    <chars count="9">
+        <char id="32" x="351" y="186" width="0" height="0" xoffset="0" yoffset="153" xadvance="62" page="0" chnl="0" letter="space"/>
+        <char id="33" x="289" y="186" width="58" height="162" xoffset="-5" yoffset="16" xadvance="48" page="0" chnl="0" letter="!"/>
+        <char id="99" x="228" y="4" width="108" height="162" xoffset="-5" yoffset="16" xadvance="97" page="0" chnl="0" letter="c"/>
+        <char id="105" x="227" y="186" width="58" height="162" xoffset="-5" yoffset="16" xadvance="48" page="0" chnl="0" letter="i"/>
+        <char id="111" x="340" y="4" width="108" height="162" xoffset="-5" yoffset="16" xadvance="97" page="0" chnl="0" letter="o"/>
+        <char id="114" x="4" y="4" width="108" height="178" xoffset="-5" yoffset="17" xadvance="97" page="0" chnl="0" letter="r"/>
+        <char id="116" x="116" y="186" width="107" height="162" xoffset="-5" yoffset="16" xadvance="97" page="0" chnl="0" letter="t"/>
+        <char id="118" x="116" y="4" width="108" height="162" xoffset="-5" yoffset="16" xadvance="97" page="0" chnl="0" letter="v"/>
+        <char id="121" x="4" y="186" width="108" height="162" xoffset="-5" yoffset="16" xadvance="97" page="0" chnl="0" letter="y"/>
+    </chars>
+</font>
